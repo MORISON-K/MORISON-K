@@ -28,7 +28,7 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MORISON-K&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MORISON-K&langs_count=5&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MORISON-K&langs_count=10&layout=compact)
 
 
 ---
