@@ -24,20 +24,12 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MORISON-K&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MORISON-K&langs_count=5&layout=compact)
-
-
----
 
 ## 📫 Get in Touch
 
 - 📧 Email: morison@example.com  
 - 🔗 X (Twitter): [@AbinsinguzaMk](https://x.com/AbinsinguzaMk)  
-- 🔗 LinkedIn: [linkedin.com/in/morison](https://linkedin.com/in/morison)
+- 🔗 LinkedIn: [linkedin.com/in/morison](linkedin.com/in/morison-abinsinguza-27945737b)
 
 ---
 
