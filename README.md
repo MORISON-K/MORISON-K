@@ -29,7 +29,7 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 
 - 📧 Email: morison@example.com  
 - 🔗 X (Twitter): [@AbinsinguzaMk](https://x.com/AbinsinguzaMk)  
-- 🔗 LinkedIn: [linkedin.com/in/morison](linkedin.com/in/morison-abinsinguza-27945737b)
+- 🔗 LinkedIn: [linkedin.com/in/morison](linkedin.com/in/morisonabinsinguza)
 
 ---
 
