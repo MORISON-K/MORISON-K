@@ -58,7 +58,4 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 
 > “I believe in shipping fast, learning faster, and always leaving code cleaner than I found it.”
 
-
 ---
-
-> “I believe in shipping fast, learning faster, and always leaving code cleaner than I found it.”
