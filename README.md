@@ -6,49 +6,20 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 
 ## 🚀 About Me
 
-- 🛠️ I work with **Flutter**, **Django**, **React**, **Firebase**, Rust and **Machine Learning**
-- 🔍 I love turning data into decisions — like predicting land prices with custom ML models
+- 🛠️ I work with **Flutter**, **Django**, **React**, **Firebase**and **Machine Learning**
+- 🔍 I love turning data into decisions
 - 🌐 I've built full apps from **UI design to backend and deployment**
-- 🌱 Currently learning: **TypeScript**, **Docker**,Soroban  and **cloud deployment strategies**
+- 🌱 Currently learning: **Next JS**,**Node JS** **Docker**  and **cloud deployment strategies**
 - ⚡ Fun fact: I enjoy simplifying tech for others and automating boring tasks
 
 ---
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages:** Python, JavaScript, Rust, C, Dirt, TypeScript, SQL  
-- 🧱 **Frontend:** Flutter, React, HTML/CSS  
-- 🔙 **Backend:** Django, Django REST Framework, Firebase Functions , Soloban 
-- ☁️ **Databases:** Firestore, PostgreSQL, SQLite  
-- 🔧 **Tools & Platforms:** Firebase, GitHub, Google Maps API, Firebase Cloud Messaging, Stellar  
-
----
-
-
-## 📫 Get in Touch 
-# 👋 Hey there, I'm Morison
-
-I'm a passionate **full-stack developer** focused on building modern apps that solve real-world problems in both Web2.0 and Web3.0 spaces
-
----
-
-## 🚀 About Me
-
-- 🛠️ I work with **Flutter**, **Django**, **React**, **Firebase**, Rust and **Machine Learning**
-- 🔍 I love turning data into decisions — like predicting land prices with custom ML models
-- 🌐 I've built full apps from **UI design to backend and deployment**
-- 🌱 Currently learning: **TypeScript**, **Docker**,Soroban  and **cloud deployment strategies**
-- ⚡ Fun fact: I enjoy simplifying tech for others and automating boring tasks
-
----
-
-## 🧰 Tech Stack
-
-- 💻 **Languages:** Python, JavaScript, Rust, C, Dirt, TypeScript, SQL  
-- 🧱 **Frontend:** Flutter, React, HTML/CSS  
-- 🔙 **Backend:** Django, Django REST Framework, Firebase Functions , Soloban 
-- ☁️ **Databases:** Firestore, PostgreSQL, SQLite  
-- 🔧 **Tools & Platforms:** Firebase, GitHub, Google Maps API, Firebase Cloud Messaging, Stellar  
+- 💻 **Languages:** Python, TypeScript, JavaScript, C, Dirt, SQL  
+- 🧱 **Frontend:** Flutter, React, HTML, TailwindCSS  
+- 🔙 **Backend:** Django, Express JS, Django REST Framework, Firebase Function   
+- ☁️ **Databases:** Firestore, PostgreSQL, MySQL, MongoDB, SQLite  
 
 ---
 
