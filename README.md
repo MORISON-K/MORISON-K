@@ -9,7 +9,7 @@ I'm a passionate **full-stack developer** focused on building modern apps that s
 - 🛠️ I work with **Flutter**, **Django**, **React**, **Firebase**and **Machine Learning**
 - 🔍 I love turning data into decisions
 - 🌐 I've built full apps from **UI design to backend and deployment**
-- 🌱 Currently learning: **Next JS**,**Node JS** **Docker**  and **cloud deployment strategies**
+- 🌱 Currently learning: **Next JS**, **Node JS** **Docker**  and **cloud deployment strategies**
 - ⚡ Fun fact: I enjoy simplifying tech for others and automating boring tasks
 
 ---
