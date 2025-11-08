@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Morison
 
-I'm a passionate **full-stack developer** focused on building modern apps that solve real-world problems in both Web2.0 and Web3.0 spaces
+I'm a passionate **full-stack developer** focused on building modern apps that solve real-world problems.
 
 ---
 
