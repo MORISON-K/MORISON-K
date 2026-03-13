@@ -1,32 +1,42 @@
 # 👋 Hey there, I'm Morison
 
-I'm a passionate **full-stack developer** focused on building modern apps that solve real-world problems.
+I'm a passionate **Full‑Stack Developer** focused on building modern applications that solve real‑world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🛠️ I work with **Flutter**, **Django**, **React**, **Firebase**and **Machine Learning**
-- 🔍 I love turning data into decisions
-- 🌐 I've built full apps from **UI design to backend and deployment**
-- 🌱 Currently learning: **Next JS**, **Node JS** **Docker**  and **cloud deployment strategies**
-- ⚡ Fun fact: I enjoy simplifying tech for others and automating boring tasks
+* 🛠️ I work with **Flutter, Django, React, Firebase, and Machine Learning**
+* 🌐 I build complete products — from **UI design to backend systems and deployment**
+* 🌱 Currently learning **Next.js, Node.js, Docker, and modern cloud deployment strategies**
+* ⚡ Fun fact: I enjoy **simplifying complex tech concepts and automating repetitive tasks**
 
 ---
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages:** Python, TypeScript, JavaScript, C, Dirt, SQL  
-- 🧱 **Frontend:** Flutter, React, HTML, TailwindCSS  
-- 🔙 **Backend:** Django, Express JS, Django REST Framework, Firebase Function   
-- ☁️ **Databases:** Firestore, PostgreSQL, MySQL, MongoDB, SQLite  
+### 💻 Languages
+
+Python • TypeScript • JavaScript  • Dart • SQL
+
+### 🎨 Frontend
+
+Flutter • React • HTML • TailwindCSS
+
+### ⚙️ Backend
+
+Django • Django REST Framework • Express.js • Firebase Functions
+
+### ☁️ Databases
+
+Firestore • PostgreSQL • MySQL • MongoDB • SQLite
 
 ---
 
-## 📫 Get in Touch 
-- 🔗 Linktree: [linktree](https://linktr.ee/morisonk)
----
+## 📫 Get in Touch
 
-> “I believe in shipping fast, learning faster, and always leaving code cleaner than I found it.”
+* 🔗 **Linktree:** [https://linktr.ee/morisonk](https://linktr.ee/morisonk)
 
 ---
+
+> *"I believe in shipping fast, learning faster, and always leaving code cleaner than I found it."*
